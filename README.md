@@ -87,3 +87,12 @@ You'll be building the following tables for your e-commerce platform 🛍️:
 🧵 product_attribute – Stores custom attributes (e.g., material, weight)
 📚 attribute_category – Groups attributes into categories (e.g., physical, technical)
 🧪 attribute_type – Defines types of attributes (e.g., text, number, boolean)
+
+
+
+
+MEMBERS:
+SHEKINAH NYAMBURA MURUNYU
+GITHUB: EngShekinah
+KRISTIN THUO
+GITHUB: ThuoKristin
